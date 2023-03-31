@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poc-barcode-scanner/static/css/main.073c9b0a.css",
-    "main.js": "/poc-barcode-scanner/static/js/main.701d735c.js",
+    "main.js": "/poc-barcode-scanner/static/js/main.eb11163a.js",
     "static/js/787.3e8d9c08.chunk.js": "/poc-barcode-scanner/static/js/787.3e8d9c08.chunk.js",
     "index.html": "/poc-barcode-scanner/index.html",
     "main.073c9b0a.css.map": "/poc-barcode-scanner/static/css/main.073c9b0a.css.map",
-    "main.701d735c.js.map": "/poc-barcode-scanner/static/js/main.701d735c.js.map",
+    "main.eb11163a.js.map": "/poc-barcode-scanner/static/js/main.eb11163a.js.map",
     "787.3e8d9c08.chunk.js.map": "/poc-barcode-scanner/static/js/787.3e8d9c08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.701d735c.js"
+    "static/js/main.eb11163a.js"
   ]
 }
