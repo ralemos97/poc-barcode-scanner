@@ -5,16 +5,16 @@ const BarcodeSnannerQr = () => {
   const [encenderFlash, setEncenderFlash] = useState(false)  
   return (
     <div> 
-      <button onClick={() => {setEncenderFlash(!encenderFlash)}}>Enceder flash</button>
        <BarcodeScannerComponent
-    width={500}
-    height={500}
-    delay={0}
-    onUpdate={(err, result) => {
-      if (result) alert(result);
-    }}
-    torch = {encenderFlash}
-  />
+          width={500}
+          height={500}
+          delay={0}
+          onUpdate={(err, result) => {
+            if (result) alert(result);
+          }}
+          torch = {encenderFlash}
+        />
+      <button onClick={() => {setEncenderFlash(!encenderFlash)}}>Enceder flash</button>
   </div>
   )
 }
